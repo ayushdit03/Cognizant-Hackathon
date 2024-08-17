@@ -5,7 +5,7 @@ from pages.chat import get_user
 
 import re
 from pymongo import MongoClient
-client = MongoClient('mongodb://localhost:27017/nikhil_db')
+client = MongoClient('mongodb+srv://pixelscognizant:jgptIPwr0fy3wMaO@cluster0.axbuf.mongodb.net/retryWrites=true&w=majority&appName=Cluster0')
 db = client['chatbot']
 user_collection = db["users"]
 
