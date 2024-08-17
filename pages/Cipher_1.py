@@ -7,7 +7,7 @@ import os
 import hashlib
 
 # MongoDB setup
-client = MongoClient('mongodb://localhost:27017/nikhil_db')
+client = MongoClient('mongodb+srv://pixelscognizant:jgptIPwr0fy3wMaO@cluster0.axbuf.mongodb.net/retryWrites=true&w=majority&appName=Cluster0')
 db = client.chatbot
 collection = db.users
 config_collection = db.config
