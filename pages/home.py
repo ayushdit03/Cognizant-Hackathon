@@ -56,8 +56,8 @@ def show():
         st.write("At Team Pixels, we redefine creativity with every project we undertake. Our design journey spans decades, transcending traditional boundaries and setting new standards in the design industry.")
     
     with col2:
-        st.image("E:\\Nikhil\\Cognizant\\main3\\images\\logo.png", width=200)
-    
+        st.image("images/logo.png", width=200)
+
     # Services section
     st.markdown("<h2>WHAT WE <span class='cyan-text'>DO?</span></h2>", unsafe_allow_html=True)
     st.write("We’re a dynamic team skilled in crafting digital experiences that resonate with users. Our range of services includes:")
