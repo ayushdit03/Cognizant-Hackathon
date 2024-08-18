@@ -4,37 +4,37 @@ def about_us():
     # List of images and their descriptions
     content = [
         {
-            "image": "E:\\Nikhil\\Cognizant\\main2\\images\\img2.png",
+            "image": "images/img2.png", 
             "title": "Ayush Jain",
             "title1": "PIXEL Lead",
             "description": "Worked on the backend using MongoDB. Connecting Web App to the database for User data storage."
         },
         {
-            "image": "E:\\Nikhil\\Cognizant\\main2\\images\\img3.jpg",
+            "image": "images/img3.jpg",
             "title": "Dhruv Yaranalkar",
             "title1": "PIXEL 1",
             "description": "Worked on the backend using MongoDB. Connecting Web App to the database for User data storage."
         },
         {
-            "image": "E:\\Nikhil\\Cognizant\\main2\\images\\img4.jpg",
+            "image": "images/img4.jpg",
             "title": "Nikhil Ingale",
             "title1": "PIXEL 2",
             "description": "Worked with the LLM technology using LangChain. Model building, Model integration."
         },
         {
-            "image": "E:\\Nikhil\\Cognizant\\main2\\images\\img5.jpg",
+            "image": "images/img5.jpg",
             "title": "Atharva Pimple",
             "title1": "PIXEL 3",
             "description": "Worked with the security for applpying security measures to the app data."
         },
         {
-            "image": "E:\\Nikhil\\Cognizant\\main2\\images\\img6.jpg",
+            "image": "images/img6.jpg",
             "title": "Sakshi Gaikwad",
             "title1": "PIXEL 4",
             "description": "Worked with the Frontend. Built UI using Streamlit, HTML and CSS."
         },
         {
-            "image": "E:\\Nikhil\\Cognizant\\main2\\images\\img7.jpg",
+            "image": "images/img7.jpg",
             "title": "Srushti Rajput",
             "title1": "PIXEL 5",
             "description": "Worked with the Frontend. Built UI using Streamlit, HTML and CSS."
