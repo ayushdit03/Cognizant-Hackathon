@@ -276,7 +276,8 @@ def main():
     with col1:
         st.title("FinTalk")
     with col2:
-        st.image("E:\\Nikhil\\Cognizant\\main3\\images\\logo.png")
+        st.image("images/logo.png")
+
 
 
     # Query input and processing
