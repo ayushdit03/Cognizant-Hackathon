@@ -125,7 +125,8 @@ col1, col2 = st.columns([6,1])
 with col1:
     st.title("FinTalk")
 with col2:
-    st.image("E:\\Nikhil\\Cognizant\\main3\\images\\logo.png")
+    st.image("images/logo.png")
+
 
 options = st.radio("Data Usage", index=1,options=["Chat", "Visualize"], horizontal=True, label_visibility="collapsed")
 
